@@ -263,3 +263,4 @@ chmod +x insert_data.sh
 cat courses.csv
 ./courses.csv
 ./insert_data.sh
+./insert_data.sh
